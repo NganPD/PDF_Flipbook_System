@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookApp\\PdfFlipbookApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookApp\\PdfFlipbookApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookApp\\PdfFlipbookApp.csproj",
+        "projectName": "PdfFlipbookApp",
+        "projectPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookApp\\PdfFlipbookApp.csproj",
+        "packagesPath": "C:\\Users\\code.nganpd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\code.nganpd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {
+                "projectPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
+        "projectName": "PdfFlipbookRepository",
+        "projectPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
+        "packagesPath": "C:\\Users\\code.nganpd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\code.nganpd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

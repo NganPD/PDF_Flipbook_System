@@ -1,0 +1,6 @@
+@PdfFlipbookApp_HostAddress = http://localhost:5261
+
+GET {{PdfFlipbookApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
