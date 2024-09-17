@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PdfFlipbook_BAL/1.0.0": {
+        "dependencies": {
+          "PdfFlipbook_DAL": "1.0.0"
+        },
+        "runtime": {
+          "PdfFlipbook_BAL.dll": {}
+        }
+      },
+      "PdfFlipbook_DAL/1.0.0": {
+        "runtime": {
+          "PdfFlipbook_DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PdfFlipbook_BAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PdfFlipbook_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

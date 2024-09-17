@@ -1,0 +1,12 @@
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\bin\Debug\net8.0\PdfFlipbook_DAL.deps.json
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\bin\Debug\net8.0\PdfFlipbook_DAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\bin\Debug\net8.0\PdfFlipbook_DAL.pdb
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.AssemblyInfoInputs.cache
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.AssemblyInfo.cs
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.csproj.CoreCompileInputs.cache
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.sourcelink.json
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\refint\PdfFlipbook_DAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.pdb
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\ref\PdfFlipbook_DAL.dll

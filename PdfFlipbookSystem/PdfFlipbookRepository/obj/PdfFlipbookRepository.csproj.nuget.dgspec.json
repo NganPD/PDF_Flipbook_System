@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {}
+    "C:\\Users\\code.nganpd\\source\\repos\\PDF_FlipBook_BE\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {
+    "C:\\Users\\code.nganpd\\source\\repos\\PDF_FlipBook_BE\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
+        "projectUniqueName": "C:\\Users\\code.nganpd\\source\\repos\\PDF_FlipBook_BE\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
         "projectName": "PdfFlipbookRepository",
-        "projectPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
+        "projectPath": "C:\\Users\\code.nganpd\\source\\repos\\PDF_FlipBook_BE\\PdfFlipbookSystem\\PdfFlipbookRepository\\PdfFlipbookRepository.csproj",
         "packagesPath": "C:\\Users\\code.nganpd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\code.nganpd\\source\\repos\\PdfFlipbookSystem\\PdfFlipbookRepository\\obj\\",
+        "outputPath": "C:\\Users\\code.nganpd\\source\\repos\\PDF_FlipBook_BE\\PdfFlipbookSystem\\PdfFlipbookRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\code.nganpd\\AppData\\Roaming\\NuGet\\NuGet.Config",

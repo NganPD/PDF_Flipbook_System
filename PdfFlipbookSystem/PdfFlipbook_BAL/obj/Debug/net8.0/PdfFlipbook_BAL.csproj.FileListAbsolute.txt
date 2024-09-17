@@ -1,0 +1,16 @@
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\bin\Debug\net8.0\PdfFlipbook_BAL.deps.json
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\bin\Debug\net8.0\PdfFlipbook_BAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\bin\Debug\net8.0\PdfFlipbook_BAL.pdb
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\bin\Debug\net8.0\PdfFlipbook_DAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\bin\Debug\net8.0\PdfFlipbook_DAL.pdb
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.csproj.AssemblyReference.cache
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.AssemblyInfoInputs.cache
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.AssemblyInfo.cs
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.csproj.CoreCompileInputs.cache
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.sourcelink.json
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipb.52C6C246.Up2Date
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\refint\PdfFlipbook_BAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\PdfFlipbook_BAL.pdb
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_BAL\obj\Debug\net8.0\ref\PdfFlipbook_BAL.dll
