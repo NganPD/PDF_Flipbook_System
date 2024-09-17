@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfFlipbookApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f507d58ee55017608f86ad50257af173f572551c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+248308f94df8382efcdd751fefee00f2133b9f21")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfFlipbookApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfFlipbookApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

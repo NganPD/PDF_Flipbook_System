@@ -68,3 +68,5 @@ C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookA
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookApp\obj\Debug\net8.0\PdfFlipbookApp.pdb
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookApp\obj\Debug\net8.0\PdfFlipbookApp.genruntimeconfig.cache
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookApp\obj\Debug\net8.0\ref\PdfFlipbookApp.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll

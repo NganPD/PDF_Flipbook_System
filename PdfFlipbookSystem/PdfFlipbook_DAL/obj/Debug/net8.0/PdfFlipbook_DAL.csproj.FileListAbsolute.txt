@@ -10,3 +10,4 @@ C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\refint\PdfFlipbook_DAL.dll
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.pdb
 C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\ref\PdfFlipbook_DAL.dll
+C:\Users\code.nganpd\source\repos\PDF_FlipBook_BE\PdfFlipbookSystem\PdfFlipbook_DAL\obj\Debug\net8.0\PdfFlipbook_DAL.csproj.AssemblyReference.cache
